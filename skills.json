@@ -1,0 +1,84 @@
+[
+
+
+    {
+        "name": "Android",
+        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+    },
+
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    
+    
+
+
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+
+
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    },
+    {
+        "name": "Microsoft",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/000000/figma.png"
+    },
+    {
+        "name": "Workspace",
+        "icon": "https://img.icons8.com/color/48/000000/google-drive.png"
+    },
+    {
+        "name": "Data Studio",
+        "icon": "https://img.icons8.com/color/48/000000/google-data-studio.png"
+    },
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/color/48/000000/canva.png"
+    },
+    {
+        "name": "Photoshop",
+        "icon": "https://img.icons8.com/color/48/000000/adobe-photoshop.png"
+    },
+    {
+        "name": "Kinemaster",
+        "icon": "https://img.icons8.com/color/48/000000/kinemaster.png"
+    }, 
+    {
+        "name": "OBS Studio",
+        "icon": "https://img.icons8.com/color/48/000000/obs-studio.png"
+    }
+]

@@ -1,0 +1,85 @@
+[
+  
+  {
+    "name": "DKM UNTAD",
+    "desc": "Landing Page Responsive Statis untuk Lembaga",
+    "image": "dkm",
+    "category": "dkm",
+    "links": {
+      "view": "https://dkmuntad.github.io/web/",
+      "code": "https://dkmuntad.github.io/web/"
+    }
+  },
+  {
+    "name": "SITAMPAN UNTAD",
+    "desc": "Sistem Informasi Terpadu MBKM UNTAD yang digunakan oleh lebih dari 10.000 Mahasiswa program MBKM dari Pendaftaran, pelaporan hingga rekognisi",
+    "image": "sitampan",
+    "category": "mbkmuntad",
+    "links": {
+      "view": "https://sitampan.untad.ac.id/",
+      "code": "https://sitampan.untad.ac.id/"
+    }
+  },
+  {
+    "name": "INVITATION WEB",
+    "desc": "Undangan Pernikahan Dinamis bertemakan One Piece yang dibangun menggunakan framework django",
+    "image": "invitation",
+    "category": "invitation",
+    "links": {
+      "view": "https://dinirohim.pythonanywhere.com//?n=Rohim",
+      "code": "https://dinirohim.pythonanywhere.com//?n=Rohim"
+    }
+  },
+  {
+    "name": "MBKM UNTAD",
+    "desc": "Website Dinamis sebagai media informasi kepada peminat program MBKM yang dibuat dengan wordpress",
+    "image": "mbkmuntad",
+    "category": "mbkmuntad",
+    "links": {
+      "view": "https://mbkm.untad.ac.id/",
+      "code": "https://mbkm.untad.ac.id/"
+    }
+  },
+  {
+    "name": "Buku MBKM",
+    "desc": "Mempermudah pelaksaan MBKM di UNTAD dibuatlahh Buku Panduan, Petunjuk Teknis, SOP Pelaksanaan MBKM yang sudah didownload dan dijadikan rujukan disemua program studi.",
+    "image": "buku",
+    "category": "mbkmuntad",
+    "links": {
+      "view": "https://mbkm.untad.ac.id/?page_id=1263",
+      "code": "https://mbkm.untad.ac.id/?page_id=1263"
+    }
+  },
+  
+  {
+    "name": "Album PMM",
+    "desc": "Mengenang pelaksanaan Pertukaran Mahasiswa Merdeka di UNTAD dengan membuat Album Kenangan PMM yang dicetak untuk dikirim ke lebih 30 perguruan tinggi",
+    "image": "album",
+    "category": "mbkmuntad",
+    "links": {
+      "view": "https://mbkm.untad.ac.id/?page_id=1263",
+      "code": "https://mbkm.untad.ac.id/?page_id=1263"
+    }
+  },
+  {
+    "name": "Sosial Media MBKM",
+    "desc": "Pembuatan Design dan Pengelolaan Sosial Media MBKM UNTAD dengan jumlah kunjungan diatas 5.000 tiap bulannya",
+    "image": "sosmed",
+    "category": "mbkmuntad",
+    "links": {
+      "view": "https://mbkm.untad.ac.id/?page_id=1263",
+      "code": "https://mbkm.untad.ac.id/?page_id=1263"
+    }
+  },
+  {
+    "name": "Lanyard DKM",
+    "desc": "Pembuatan design lanyard beserta id card untuk semua pengurus Duta Kampus Merdeka UNTAD untuk digunakan pada setiap kegiatan selama periode tahun 2024",
+    "image": "lanyard",
+    "category": "dkm",
+    "links": {
+      "view": "https://www.canva.com/design/DAGCZWYxthw/D-KdAo_wYJ0qnUv_jw1Ljw/edit?utm_content=DAGCZWYxthw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "code": "https://www.canva.com/design/DAGCZWYxthw/D-KdAo_wYJ0qnUv_jw1Ljw/edit?utm_content=DAGCZWYxthw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    }
+  }
+
+]
