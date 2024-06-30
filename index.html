@@ -23,7 +23,7 @@
 
 <!-- navbar starts -->
 <header>
-        <a href="/" class="logo"><i class="fab fa-node-js"></i> Abdul</a>
+        <a href="/" class="logo"><i class="fab fa-node-js"></i> Rohim</a>
 
         <div id="menu" class="fas fa-bars"></div>
         <nav class="navbar">
@@ -320,11 +320,11 @@
           <i class='fas fa-user'></i>
         </div>
         <div class="field">
-          <input type="text" name="email" placeholder="Email" required>
+          <input type="email" name="email" placeholder="Email" required>
           <i class='fas fa-envelope'></i>
         </div>
         <div class="field">
-          <input type="text" name="phone" placeholder="Phone">
+          <input type="number" name="phone" placeholder="Phone">
           <i class='fas fa-phone-alt'></i>
         </div>
         <div class="message">
@@ -332,11 +332,40 @@
         <i class="fas fa-comment-dots"></i>
         </div>
         </div>
+
       <div class="button-area">
         <button type="submit">
-          Submit <i class="fa fa-paper-plane"></i></button>
+          Kirim <i class="fa fa-paper-plane"></i></button>
       </div>
     </form>
+    <script>
+      document.getElementById("contact-form").addEventListener("submit", function (event) {
+          event.preventDefault();
+  
+          // Form data
+          let formData = new FormData(this);
+          let name = formData.get("name");
+          let email = formData.get("email");
+          let phone = formData.get("phone");
+          let message = formData.get("message");
+  
+          // Format pesan WhatsApp
+          let whatsappMessage = "[" + name + "]\nPHONE : " + phone + "\nEMAIL : " + email + "\n\n" + message + "\n\n(pesan ini dikirim dari website Portofolio Abdul Rohim)";
+  
+          // Nomor WhatsApp tujuan
+          let phoneNumber = "6282252009575";
+  
+          // URL WhatsApp Click to Chat
+          let whatsappUrl = "https://api.whatsapp.com/send?phone=" + phoneNumber + "&text=" + encodeURIComponent(whatsappMessage);
+  
+          // Buka link WhatsApp Click to Chat
+          window.open(whatsappUrl);
+  
+          // Tampilkan pesan sukses
+          let sentMessage = document.querySelector(".sent-message");
+          sentMessage.style.display = "block";
+      });
+  </script>
   </div>
   </div>
 </section>
